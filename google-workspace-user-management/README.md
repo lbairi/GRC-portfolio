@@ -1,8 +1,6 @@
 # Google Workspace User Management
-
-## Overview
-This project shows how I managed user accounts and access using Google Workspace.
-
+## Compliance Relevance
+This project supports access control and data protection practices by ensuring only authorized users have access to systems and sensitive information.
 ## What I Did
 - Created user accounts
 - Assigned permissions
@@ -10,7 +8,7 @@ This project shows how I managed user accounts and access using Google Workspace
 - Helped users with login issues
 - Managed account updates
 
-## Security Focus
+## Security Focus and Compliance 
 - Controlled user access
 - Protected account information
 - Applied least privilege
